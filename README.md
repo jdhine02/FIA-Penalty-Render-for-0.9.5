@@ -58,6 +58,9 @@ Step 6: Add the following text section into the desired theme's localization fol
         "PORTIMÃO GRAND PRIX" : "GRANDE PRÉMIO DE PORTUGAL",
 
 Credit goes to Dark373 for GP names.
+
+**Optional:  To change the color of the Grand Prix Name, you will need to add a category**
+
 ![penalties](https://github.com/user-attachments/assets/1cfd539c-26b1-446b-9756-242e01a5fb02)
 ![penalty](https://github.com/user-attachments/assets/1c47bef3-00ef-4c4e-b460-0f594645bf21)
 
